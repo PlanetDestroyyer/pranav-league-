@@ -6,4 +6,5 @@ def fic(n):
 	outout = n_1+n_2
 	return  outout
 n = int(input())
-print(fic(n))
+for n in n:
+	print(fic(n))
